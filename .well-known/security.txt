@@ -1,0 +1,4 @@
+Contact: mailto:security@zfnd.org
+Encryption: https://openpgpkey.zfnd.org/.well-known/openpgpkey/zfnd.org/pgp-key.asc
+Preferred-Languages: en
+Canonical: https://zfnd.org/.well-known/security.txt
